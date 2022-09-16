@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome:headless"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^2.0.0"
+  }
+}
